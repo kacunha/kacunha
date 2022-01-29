@@ -16,4 +16,7 @@
  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+ 
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/54717657/151670800-53eceba3-855e-4710-a826-8a25c20670ac.gif)
+
 
